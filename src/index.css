@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica Neue';
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-size: 50px;
+  margin: 50px;
+}
+
+button,input{
+  padding: 10px 20px;
+  margin: 5px;
+}
